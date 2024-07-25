@@ -9,6 +9,7 @@ Key features include:
 - Training & Evaluation: Includes mechanisms for early stopping to prevent overfitting and ensure optimal model performance.
 - Recommendations: Provides a function to generate top N movie recommendations for a given user, outputting IMDb links for easy access to movie details.
 - Preprocessing: Ensures no user rates the same movie more than once by handling duplicate entries effectively.
+- Bayesian Average: Utilizes a Bayesian average approach to handle rating data, ensuring more robust and stable predictions by accounting for variability in the number of ratings per movie.
 
 The result is an efficient recommendation system that can predict user preferences and suggest movies with direct IMDb links.
 
