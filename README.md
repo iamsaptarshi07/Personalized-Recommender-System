@@ -1,6 +1,6 @@
 ## Building a [MovieLens](https://files.grouplens.org/datasets/movielens)(ml-latest-small) Recommender System Using Neural Collaborative Filtering
 
-<img src="images/train_val_loss.png" width="40%" align='right'/>
+<img src="image/train_val_loss.png" width="40%" align='right'/>
 
 Want to know how Spotify, Amazon, and Netflix generate recommendations for their users? In this introductory workshop, we'll learn how to build collaborative filtering and content-based filtering recommender systems using the [MovieLens](https://grouplens.org/datasets/movielens/) dataset.
 
