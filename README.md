@@ -1,8 +1,13 @@
-## Building a [MovieLens](https://files.grouplens.org/datasets/movielens)(ml-latest-small) Recommender System Using Neural Collaborative Filtering
+## Building a MovieLens Recommender System Using Neural Collaborative Filtering
 
 <img src="image/train_val_loss.png" width="40%" align='right'/>
+This project implements a Neural Collaborative Filtering (NeuCF) model in PyTorch for movie recommendations using the MovieLens dataset. Key features include:
 
-Want to know how Spotify, Amazon, and Netflix generate recommendations for their users? In this introductory workshop, we'll learn how to build collaborative filtering and content-based filtering recommender systems using the [MovieLens](https://grouplens.org/datasets/movielens/) dataset.
+- Model Architecture: Combines user and item embeddings with fully connected hidden layers to predict user ratings for movies.
+-Training & Evaluation: Includes mechanisms for early stopping to prevent overfitting and ensure optimal model performance.
+-Recommendations: Provides a function to generate top N movie recommendations for a given user, outputting IMDb links for easy access to movie details.
+-Preprocessing: Ensures no user rates the same movie more than once by handling duplicate entries effectively.
+The result is an efficient recommendation system that can predict user preferences and suggest movies with direct IMDb links.
 
 We'll be using these packages to do our analysis:
 
