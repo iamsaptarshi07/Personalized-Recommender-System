@@ -20,7 +20,10 @@ We'll be using these packages to do our analysis:
 - [pytorch](https://pytorch.org/)
 - [matplotlib](https://matplotlib.org/)
 - [scikit-learn](https://scikit-learn.org/stable/)
+- [FastAPI](https://fastapi.tiangolo.com/)
+- [Docker](https://www.docker.com/)
 
 In this repo, you'll find one notebook:
 
 1. [notebook](neucf.ipynb): this contains all the codes for model training as well as recommendation
+2. [RESTful API using FastAPI](myapp): This folder contains code for FastAPI application used to recommend movies. 
