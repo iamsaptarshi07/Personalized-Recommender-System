@@ -1,6 +1,6 @@
 ## Building a MovieLens Recommender System Using Neural Collaborative Filtering
 
-<img src="image/train_val_loss.png" width="40%" align='right'/>
+<img src="image/model_architecture" width="40%" align='right'/>
 This project implements a Neural Collaborative Filtering (NeuCF) model in PyTorch for movie recommendations using the MovieLens dataset.
 
 Key features include:
