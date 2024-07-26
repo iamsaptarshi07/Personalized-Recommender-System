@@ -23,4 +23,4 @@ We'll be using these packages to do our analysis:
 
 In this repo, you'll find one notebook:
 
-1. [notebook](neucf.ipynb): this contains all the codes
+1. [notebook](neucf.ipynb): this contains all the codes for model training as well as recommendation
