@@ -25,7 +25,7 @@ def get_recommendation(request: RecommendationRequest):
     user_id = request.user_id
     all_movie_ids = useful_df['movieId'].values
 
-    if not (0 <= user_id < useful_df['movieId'].nunique()):
+    if not (0 <= user_id < useful_df['userId'].nunique()):
         raise HTTPException(status_code=400, detail="User ID is out of bounds")
 
     try:
