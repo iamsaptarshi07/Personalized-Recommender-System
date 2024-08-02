@@ -30,5 +30,5 @@ In this repo, you'll find one notebook:
 
 ## DEMO
 <video width="600" controls>
-  <source src="https://github.com/user-attachments/assets/da4e711f-1f64-4018-996b-9b8165ff77f4.webm" type="video/webm">
+  <source src="https://github.com/user-attachments/assets/da4e711f-1f64-4018-996b-9b8165ff77f4" type="video/webm">
 </video>
