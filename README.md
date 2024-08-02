@@ -13,7 +13,7 @@ Key features include:
 
 The model predicts the probability that a user will like a particular movie and uses these probabilities to recommend the most suitable movies to each user.
 
-We'll be using these packages to do our analysis:
+Tech stack Used in this project:
 
 - [pandas](https://pandas.pydata.org/)
 - [numpy](https://numpy.org/)
