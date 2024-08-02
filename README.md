@@ -22,6 +22,7 @@ We'll be using these packages to do our analysis:
 - [scikit-learn](https://scikit-learn.org/stable/)
 - [FastAPI](https://fastapi.tiangolo.com/)
 - [Docker](https://www.docker.com/)
+- [Render](https://render.com/)
 
 In this repo, you'll find one notebook:
 
