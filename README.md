@@ -26,4 +26,9 @@ We'll be using these packages to do our analysis:
 In this repo, you'll find one notebook:
 
 1. [notebook](neucf.ipynb): this contains all the codes for model training as well as recommendation
-2. [RESTful API using FastAPI](myapp): This folder contains code for FastAPI application used to recommend movies. 
+2. [RESTful API using FastAPI](myapp): This folder contains code for FastAPI application used to recommend movies.
+
+## DEMO
+<video width="600" controls>
+  <source src="https://github.com/user-attachments/assets/da4e711f-1f64-4018-996b-9b8165ff77f4.webm" type="video/webm">
+</video>
